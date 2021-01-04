@@ -7,7 +7,7 @@ ReactJS/Redux, Googlemap API and SASS were used to design front-end part of the 
 
 Node js, Express js and POSTGRES database for back-end part.
 
-Start the serverside app from on PORT 3001
+Start the serverside app on PORT 3001
 
 https://github.com/WanjinYoo/RoomforR-api
 
